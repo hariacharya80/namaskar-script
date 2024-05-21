@@ -12,6 +12,7 @@ and then in your Hyprland configuration. execute the script once in login with
 ```bash 
 exec-once=namaskar
 ```
+Also, make sure to create a assets folder in your home directory and also provide the API key in your environmental variables.
 
 ## Feedbacks
 This is my personal script, make changes as necessary and use. Open to cool PRs too!
