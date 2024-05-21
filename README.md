@@ -10,7 +10,7 @@ npm install -g namaskar-script
 and then in your Hyprland configuration. execute the script once in login with
 
 ```bash 
-exec-once namaskar
+exec-once=namaskar
 ```
 
 ## Feedbacks
