@@ -6,7 +6,7 @@
   "bin" : {
     "namaskar" : "index.js"
   },
-  "name": "namaskar",
+  "name": "namaskar-script",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
