@@ -4,8 +4,8 @@ Just messing around with node and linux in general, trying to create a script th
 
 ## Installation
 First, install this globally with
-
-```npm install -g namaskar-script
+```
+npm install -g namaskar-script
 ```
 and then in your Hyprland configuration. execute the script once in login with
 
